@@ -1,0 +1,7 @@
+[user]
+	name = ABE, Tatsuki
+	email = ABE.Tatsuki@gmail.com
+[core]
+	excludesfile = /home/tnote/.gitignore
+[http]
+	sslVerify = false

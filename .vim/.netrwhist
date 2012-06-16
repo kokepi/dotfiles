@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/tnote/work/ruby'
+let g:netrw_dirhist_2='/home/tnote/heroku-app1/app/views'
+let g:netrw_dirhist_3='/home/tnote/heroku-app1/app/views/books'
+let g:netrw_dirhist_4='/home/tnote/heroku-app1/app/views/ctrl'
+let g:netrw_dirhist_5='/home/tnote/.vim/plugin'
+let g:netrw_dirhist_6='/home/tnote/.vim/syntax'
+let g:netrw_dirhist_7='/usr/local/rvm/gems/ruby-1.9.3-p194/gems/gravatar_image_tag-0.1.0'
