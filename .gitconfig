@@ -1,7 +1,10 @@
 [user]
-	name = ABE, Tatsuki
-	email = ABE.Tatsuki@gmail.com
+	name = kokepi
+	email = kokepiking+github@gmail.com
 [core]
 	excludesfile = /home/tnote/.gitignore
 [http]
-	sslVerify = false
+  sslVerify = false
+
+[alias]
+  logp = git log --graph --pretty='format:%C(yellow)%h%Cblue%d%Creset %s %C(black bold)%an, %ar%Creset'
